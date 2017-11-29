@@ -1,0 +1,81 @@
+html {
+  text-align: center;
+}
+
+.nav {
+background-image: url("../theflatironbuilding.jpg");
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav a {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+  line-height: 180%;
+}
+
+.process h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.process p {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  padding-bottom: 15px;
+  padding-top: 0px;
+  margin-top: 5px;
+}
+
+
+.nyoffice h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../theflatironbuilding.jpg");
+}
+
+.nyoffice h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.nyoffice p {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  padding-bottom: 15px;
+  padding-top: 5px;
+  margin: 0;
+}
+
+.foot {
+  font-family: Helvetica, sans-serif;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.foot a {
+  color: white;
+  fo
+}
